@@ -22,15 +22,15 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [*] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
-* [*] Buttons use a pitch (frequency) other than the ones in the tutorial
-* [*] More than 4 functional game buttons
-* [*] Playback speeds up on each turn
-* [*] Computer picks a different pattern each time the game is played
-* [*] Player only loses after 3 mistakes (instead of on the first mistake)
-* [*] Game button appearance change goes beyond color (e.g. add an image)
-* [*] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
-* [*] User has a limited amount of time to enter their guess on each turn
+* [] Any HTML page elements (including game buttons) has been styled differently than in the tutorial
+* [] Buttons use a pitch (frequency) other than the ones in the tutorial
+* [] More than 4 functional game buttons
+* [] Playback speeds up on each turn
+* [] Computer picks a different pattern each time the game is played
+* [] Player only loses after 3 mistakes (instead of on the first mistake)
+* [] Game button appearance change goes beyond color (e.g. add an image)
+* [] Game button sound is more complex than a single tone (e.g. an audio file, a chord, a sequence of multiple tones)
+* [] User has a limited amount of time to enter their guess on each turn
 
 The following **additional** features are implemented:
 
@@ -49,19 +49,19 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [ELOQUENT JAVASCRIPT,https://www.w3schools.com/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+[A challenge faced during the creation of this app is when it came to javascript I was bit confused a first when we started creating so many functions . A way I overcame this challenge was basically reading very carefully to understand what these functions are doing and how functions work as a whole.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[Whats the key differences bewtwen web deveopment and software development? What are the biggest differences between mobile and desktop development? What is the difference between undefined value and null value?]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+[If I had a few more hours to work on this project I would’ve added additional features to see the outcome of the app and also refactored functions to see the end result. I had such a fun time creating this app it really opened my eyes to what I can build in the future. I had a blast using javascript. ]
 
 
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://loom.com/share/156a55cb8f38438f8afb01c02f69f667)
 
 
 ## License
