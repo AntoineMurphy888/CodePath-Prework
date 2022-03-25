@@ -49,7 +49,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 [ELOQUENT JAVASCRIPT,https://www.w3schools.com/]
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[A challenge faced during the creation of this app is when it came to javascript I was bit confused a first when we started creating so many functions . A way I overcame this challenge was basically reading very carefully to understand what these functions are doing and how functions work as a whole.]
+[A i challenge faced during the creation of this app is when it came to javascript I was bit confused a first when we started creating so many functions . A way I overcame this challenge was basically reading very carefully to understand what these functions are doing and how functions work as a whole.]
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 [Whats the key differences bewtwen web deveopment and software development? What are the biggest differences between mobile and desktop development? What is the difference between undefined value and null value?]
